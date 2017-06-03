@@ -1,3 +1,3 @@
 # QRDS
-Relevant data stream for the offence detail pages
+Relevant data stream for the offende summary pages
 ![Screenshot](screencap.jpeg)
