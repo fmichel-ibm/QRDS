@@ -1,6 +1,9 @@
 # QRDS
 Relevant data stream for the offende summary pages
 
+v3.8
+added highchart library as a static module to avoid external communications
+
 v1.2
 added flow size for src and dst.
 Alert is now a spline graph
