@@ -1,5 +1,5 @@
 # QRDS
-Relevant data stream for the offende summary pages
+Relevant data stream for the offense summary pages
 
 This application is designed to explain how to enrich QRadar UI and enhance Analyst experience.
 
